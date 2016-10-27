@@ -44,8 +44,9 @@ var exercise2 = function () {
   const v = 1; // Do not change this line
 
   if (true) {
+    var w;
     const v = 2;
-    var w = v;
+    w = v;
   }
 
   // No changes below that point
